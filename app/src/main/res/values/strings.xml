@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trash Rush</string>
+    <string name="msgNSorted">Sorted: %d items</string>
+    <string name="msgMissed">Missed! %d</string>
+    <string name="msgLevel">Level %d!</string>
+    <string name="msgDidNotGetIt">Didn\'t get it! %d</string>
+    <string name="msgMissedOutOfConveyor">Missed! %d</string>
+    <string name="statYouSaved">You saved:</string>
+    <string name="statNTrees">🌳 %d trees</string>
+    <string name="statLitersOfWater">💧 %d liters of water</string>
+    <string name="statCO2">☁️ %d grams of CO₂</string>
+    <string name="gameHeaderTime">Time: %1$02d:%2$02d</string>
+    <string name="gameHeaderLevel">Level: %d</string>
+    <string name="btnPlayAgain">PLAY AGAIN</string>
+    <string name="savedTrees">🌳 %d</string>
+    <string name="savedWater">💧 %dl</string>
+    <string name="savedCO2">☁️ %dg</string>
+    <string name="menuContinue">CONTINUE</string>
+    <string name="menuExit">EXIT</string>
+    <string name="menuNewGame">NEW GAME</string>
+    <string name="menuPlay">PLAY</string>
+    <string name="gameOverMenuPlayAgain">PLAY AGAIN</string>
+    <string name="gameOverMenuBackToMenu">BACK TO MENU</string>
+</resources>

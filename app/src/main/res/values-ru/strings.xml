@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trash Rush</string>
+    <string name="msgNSorted">Отсортировано: %d предметов</string>
+    <string name="msgMissed">Пропущено! %d</string>
+    <string name="msgLevel">Уровень %d!</string>
+    <string name="msgDidNotGetIt">Не донёс! %d</string>
+    <string name="msgMissedOutOfConveyor">Мимо! %d</string>
+    <string name="statYouSaved">Вы спасли:</string>
+    <string name="statNTrees">🌳 %d деревьев</string>
+    <string name="statLitersOfWater">💧 %d литров воды</string>
+    <string name="statCO2">☁️ %d грамм CO₂</string>
+    <string name="gameHeaderTime">Время: %1$02d:%2$02d</string>
+    <string name="gameHeaderLevel">Уровень: %d</string>
+    <string name="btnPlayAgain">ИГРАТЬ СНОВА</string>
+    <string name="savedWater">💧 %dл</string>
+    <string name="savedCO2">☁️ %dг</string>
+    <string name="menuContinue">ПРОДОЛЖИТЬ</string>
+    <string name="menuExit">ВЫХОД</string>
+    <string name="menuNewGame">НОВАЯ ИГРА</string>
+    <string name="menuPlay">ИГРАТЬ</string>
+    <string name="gameOverMenuPlayAgain">ИГРАТЬ СНОВА</string>
+    <string name="gameOverMenuBackToMenu">В МЕНЮ</string>
+</resources>
