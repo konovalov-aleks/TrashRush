@@ -1,7 +1,13 @@
-# TrashRush
-simple sorter game for Android
+<p align="center">
+ <img width="320" height="240" alt="TrashRush" src="https://github.com/user-attachments/assets/c499c399-3065-4757-9c80-8ab0c4b780fa" />
+</p>
 
-<img width="3096" height="2126" alt="Screenshot_20260103_022913" src="https://github.com/user-attachments/assets/42d926b0-98d1-479e-b3e4-711a1cc2bc13" />
+A simple sorter game for Android.
+
+> Sort trash at speed! Operate the conveyor belt, throw waste into the right bins, and save the planet in this exciting eco-arcade game.
+> Accelerate, improve your reaction time, and become a sorting master! Will you be able to maintain a positive balance when batteries appear on the conveyor belt and there's a ton of trash?
+> Join the environmental movement through an engaging game! Sort trash, save the planet, and become the best in Trash Rush!
+
 <img width="3096" height="2126" alt="Screenshot_20260103_023313" src="https://github.com/user-attachments/assets/8f8bfb58-4a45-4651-8eba-86805de7a795" />
 
 ---
