@@ -3,6 +3,8 @@ name: Android CI - Release
 on:
   push:
     branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -38,6 +40,20 @@ jobs:
         SIGNING_KEY_PASSWORD: ${{ secrets.SIGNING_KEY_PASSWORD }}
         SIGNING_STORE_PASSWORD: ${{ secrets.SIGNING_STORE_PASSWORD }}
         VERSION_CODE: ${{ github.run_number }}
+      
+     - name: Find and list APK/AAB files
+      run: |
+        echo "=== Поиск APK файлов ==="
+        find ./app/build -name "*.apk" -type f | head -20
+        echo ""
+        echo "=== Поиск AAB файлов ==="
+        find ./app/build -name "*.aab" -type f | head -20
+        echo ""
+        echo "=== Содержимое outputs директорий ==="
+        ls -la ./app/build/outputs/ || true
+        ls -la ./app/build/outputs/apk/ || true
+        ls -la ./app/build/outputs/bundle/ || true
+      
     - name: Upload APK
       uses: actions/upload-artifact@v4
       with:
