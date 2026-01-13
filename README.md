@@ -15,3 +15,5 @@ A simple sorter game for Android.
 _Google sent me an email informing me that my dev-account had been inactive for a year and would soon be deleted. They told me I needed to release something to prevent deletion. "Okay, Google... you want activity? Get it," I thought, and wrote this little game over the course of a couple of evenings._
 
 _P.S.: it turned out that Google tightened the screws in 2024, requiring at least 12 testers [to test for 14 days](https://play.google.com/store/apps/details?id=dev.av.konovalov.trashrush) in case of a game...that's not an option. So, I'll have to write something other than a game... to be continued_
+
+_P.P.S: Google was satisfied that I launched a closed test. So, my account was saved from deletion - the goal of this project has been achieved :)_
