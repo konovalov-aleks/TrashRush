@@ -39,7 +39,7 @@ jobs:
         SIGNING_STORE_PASSWORD: ${{ secrets.SIGNING_STORE_PASSWORD }}
         VERSION_CODE: ${{ github.run_number }}
 
-   - name: Find and list APK/AAB files
+    - name: Find and list APK/AAB files
       run: |
         echo "=== search APK files ==="
         find ./app/build -name "*.apk" -type f | head -20
